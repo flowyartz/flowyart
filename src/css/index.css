@@ -1,0 +1,55 @@
+body{
+    background-color: #FFFCEB;
+    margin: 0;
+}
+
+.logo{
+    margin-left: 46%;
+    margin-top: 5%;
+}
+
+.tabs{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
+    color: #E2C665;
+    margin-left: 41.5%;
+    margin-top: 2%
+}
+.tabs .tt{ 
+    color: #3C3416;
+    font-weight: 800
+}
+a {
+    text-decoration: none;
+    color: #E2C665;
+}
+
+a:hover {
+    color:#3C3416;
+}
+
+.find {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 13px;
+    color: #E2C665;
+    margin-left: 47%;
+    margin-top: 2%;
+}
+
+.boxlink {
+    width: 180px;
+    margin-left: 45%;
+    margin-bottom: 2%;
+}
+.dribbble {
+    margin-left: 1%;
+}
+.insta {
+    margin-left: 7%;
+}
+.twitter {
+    margin-left: 7%;
+}
+.vimeo {
+    margin-left: 7%;
+}
