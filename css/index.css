@@ -96,7 +96,7 @@ a:hover {
         padding-top: 56.25%;
         margin-top: 1%;
         position: relative;
-        background-color: black;
+        /* background-color: black; */
     }
     .iframe-container iframe {
         border: 0;
