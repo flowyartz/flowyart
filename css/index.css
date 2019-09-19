@@ -94,7 +94,9 @@ a:hover {
     .iframe-container {
         overflow: hidden;
         padding-top: 56.25%;
+        margin-top: 1%;
         position: relative;
+        background-color: black;
     }
     .iframe-container iframe {
         border: 0;
