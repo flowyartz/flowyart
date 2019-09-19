@@ -73,3 +73,25 @@ a:hover {
 .vimeo {
     margin-left: 7%;
 }
+
+
+@media screen and (max-width: 481px) {
+    .logo {
+        margin-left: 38%
+    }
+
+    .tabs {
+        margin-left: 25%;
+    }
+    .find {
+        margin-left: 39%;
+        margin-top: 10%;
+    }
+    .boxlink {
+        margin-left: 32%;
+        margin-bottom: 10%;
+    }
+    .video2 {
+        margin-left: 10%;
+    }
+}
